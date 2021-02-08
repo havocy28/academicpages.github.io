@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Brian Hur"
-  avatar           : "Brian_2.jpg"
-  bio              : "Researcher in Applied Natural Language Processing/Machine Learning with a Focus on Clinical Informatics and Veterinary Epideimiology"
+  avatar           : "https://s.gravatar.com/avatar/d2f8dc3c1fbcdaf9f1f3b277b299ad0e?s=300"
+  bio              : "Researcher in Applied Natural Language Processing/Machine Learning, Clinical Informatics and Veterinary Epidemiology"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Hur+BA&cauthor_id=32168354"
