@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Brian Hur's home on the web.
+I started my tech career at Microsoft in Seattle before going into IT consulting, performing several consulting contracts overseas, becoming a veterinarian, and launching a few vet and non-vet tech related startups. I'm currently based in Melbourne, Australia, and researching the use of Natural Language Processing to improve the secondary use of veterinary clinical records at the University of Melbourne.
 
 A data-driven personal website
 ======
