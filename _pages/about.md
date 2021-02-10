@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I started my tech career at Microsoft in Seattle before going into IT consulting, performing several consulting contracts overseas, becoming a veterinarian, and launching a few vet and non-vet tech related startups. I'm currently based in Melbourne, Australia, and researching the use of Natural Language Processing to improve the secondary use of veterinary clinical records at the University of Melbourne.
+I am currently a PhD candidate at the University of Melbourne doing a joint PhD in the fields of Natural Language Processing and Veterinary Epidemiology. My research interests fall within the fields of Natural Language Processing, Clinical Informatics and Machine Learning.  I am more specifically interested in exploiting structured and unstructured data to help machines understand the treatments given, the reasons behind them and using this data to help inform [Antimicrobial Stewardship Programs in Australia](https://www.ncas-australia.org/) to combat Antibiotic Resistance.
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Successful grant funding from [Australian Research Data Commons](https://ardc.edu.au/news/new-data-projects-will-help-transform-australian-research/) for expansion of [VetCmopass Australia](https://www.vetcompass.com.au/) to develop the world's first platform to ingest data of veterinary hospitals and veterinary pathology reports on national scale.  A major component of this project is building an infrastructure to enable the NLP models we created to be applied to help researchers around the world.
+* Our [Veterinary Record Paper] describes the usage of Cefovecin in veterinary practices accross Australia.  Cefovecin is a 3rd generation cephlasporin and [crtically important antibiotic](https://www.amr.gov.au/resources/importance-ratings-and-summary-antibacterial-uses-human-and-animal-health-australia) in terms of antibiotic resistance. We used our previous algorithms to generate the labels for this study and used this study to generate training data for our [BioNLP paper](https://www.aclweb.org/anthology/2020.bionlp-1.17/).
+* [Antimicrobial Prescribing Guidelines](https://vetantibiotics.fvas.unimelb.edu.au/about/resources/) made available online for veterinarians in Companion Animal Practice.
+* 
 
 Getting started
 ======
