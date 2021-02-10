@@ -12,12 +12,12 @@ I am currently a PhD candidate at the University of Melbourne doing a joint PhD 
 
 News
 ======
-* Successful grant funding from [Australian Research Data Commons](https://ardc.edu.au/news/new-data-projects-will-help-transform-australian-research/) for expansion of [VetCmopass Australia](https://www.vetcompass.com.au/) to develop the world's first platform to ingest data of veterinary hospitals and veterinary pathology reports on national scale.  A major component of this project is building an infrastructure to enable the NLP models we created to be applied to help researchers around the world.
-* Our [Veterinary Record Paper] describes the usage of Cefovecin in veterinary practices accross Australia.  Cefovecin is a 3rd generation cephlasporin and [crtically important antibiotic](https://www.amr.gov.au/resources/importance-ratings-and-summary-antibacterial-uses-human-and-animal-health-australia) in terms of antibiotic resistance. We used our previous algorithms to generate the labels for this study and used this study to generate training data for our [BioNLP paper](https://www.aclweb.org/anthology/2020.bionlp-1.17/).
+* Successful grant funding from [Australian Research Data Commons](https://ardc.edu.au/news/new-data-projects-will-help-transform-australian-research/) for expansion of [VetCompass Australia](https://www.vetcompass.com.au/) to develop the world's first platform to gather data from veterinary hospitals and veterinary pathology labs on national scale.  A major component of this project is building an infrastructure to enable the NLP models we created to be applied to help researchers around the world.
+* Our [Veterinary Record Paper](https://bvajournals.onlinelibrary.wiley.com/doi/abs/10.1136/vr.105997) describes the usage of Cefovecin in veterinary practices accross Australia.  Cefovecin is a 3rd generation cephlasporin and [crtically important antibiotic](https://www.amr.gov.au/resources/importance-ratings-and-summary-antibacterial-uses-human-and-animal-health-australia) in terms of antibiotic resistance. We used our previous algorithms to generate the labels for this study and used this study to generate training data for our [BioNLP paper](https://www.aclweb.org/anthology/2020.bionlp-1.17/).
 * [Antimicrobial Prescribing Guidelines](https://vetantibiotics.fvas.unimelb.edu.au/about/resources/) made available online for veterinarians in Companion Animal Practice.
-* 
+* Our paper for [BioNLP @ ACL 2020 paper](https://www.aclweb.org/anthology/2020.bionlp-1.17/) was published.  In this paper we use instance selection and developed [VetBERT](https://github.com/havocy28/VetBERT) to minimize the amount of labels required to train a model to classify the reason for an antimicrobial administration.
 
-Getting started
+Selected Papers
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
