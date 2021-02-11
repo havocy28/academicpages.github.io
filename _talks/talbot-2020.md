@@ -8,5 +8,4 @@ date: 2020-08-28
 location: "Online due to COVID-19"
 ---
 
-This talk discussed our work on extracting medications from clinical records and combine it with new approaches 
-to understand the reason for giving these drugs out of raw clinical text using developed Natural Language Processing methods.
+This talk discussed our work with [VetCompass Australia](https://www.vetcompass.com.au/) in extracting medications and the reason for administration from clinical records. Our work demonstrates an end to end approach using artificial intelligence to understand the reason for giving these drugs out of raw clinical text on a population level.  This is done through a combination of big data, rules-based algorithms and novel deep learning models.
