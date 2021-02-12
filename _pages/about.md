@@ -21,7 +21,7 @@ Selected Papers
 ======
 
 * Hur, Brian, Timothy Baldwin, Karin Verspoor, Laura Hardefeldt and James Gilkerson (2020) [Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes](https://www.aclweb.org/anthology/2020.bionlp-1.17/), In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing (BioNLP 2020), pp. 156—166.
-* Hardefeld, Laura Y, Brian Hur, Karin Verspoor, Timothy Baldwin, Kirsten E Bailey, Riata Scarborough, Suzanna Richards, Helen Bilman-Jacobe, Glenn F Browning and James R Gilkerson (2020) [Use of cefovecin in dogs and cats attending first-opinion veterinary practices in Australia](https://veterinaryrecord.bmj.com/content/early/2020/08/20/vr.105997#), Veterinary Record.
+* Hardefeldt, Laura Y, Brian Hur, Karin Verspoor, Timothy Baldwin, Kirsten E Bailey, Riata Scarborough, Suzanna Richards, Helen Bilman-Jacobe, Glenn F Browning and James R Gilkerson (2020) [Use of cefovecin in dogs and cats attending first-opinion veterinary practices in Australia](https://veterinaryrecord.bmj.com/content/early/2020/08/20/vr.105997#), Veterinary Record.
 * Hur, Brian A., Laura Y. Hardefeldt, Karin M. Verspoor, Timothy Baldwin, and James R Gilkerson (2020) Describing the Antimicrobial Usage Patterns of Companion Animal Veterinary Practices; [Free Text Analysis of more than 4.4 Million Consultation Records](https://doi.org/10.1371/journal.pone.0230049), PLoS ONE 15(3): e0230049.
 * Brian Hur, Laura Y. Hardefeldt, Karin Verspoor, Timothy Baldwin and James R Gilkerson (2019) [Using Natural Language Processing and VetCompass to understand antimicrobial usage patterns in Australia](https://pubmed.ncbi.nlm.nih.gov/31209869/), Australian Veterinary Journal 97(8), pp. 298—300.
 
