@@ -12,5 +12,3 @@ citation: 'Brian Hur, Laura Y. Hardefeldt, Karin Verspoor, Timothy Baldwin and J
 This was our preliminary study in which we developed our methods which were used for analysis of follow up papers and projects.
 
 [Download paper here](https://pubmed.ncbi.nlm.nih.gov/31209869/)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

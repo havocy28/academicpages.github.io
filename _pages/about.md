@@ -12,6 +12,7 @@ I am currently a PhD candidate at the University of Melbourne doing a joint PhD 
 
 News
 ======
+* Our [Traitement Automatique des Langues (TAL) paper](https://www.atala.org/sites/default/files/TAL-61-2-2_Wang.pdf) describes the methods we used for the National NLP Clinical Challenge [shared task 3 on clinical concept normalization](https://n2c2.dbmi.hms.harvard.edu/track3).  In this study, we link entity mentions of clinical concepts in clinical documents to their corresponding standardized medical terminology.  We were able to create the highest performing rules based method for the shared task and contrast its performance to using ClinicalBERT for the same task.
 * Grant funding from [Australian Research Data Commons](https://ardc.edu.au/news/new-data-projects-will-help-transform-australian-research/) for expansion of [VetCompass Australia](https://www.vetcompass.com.au/) to develop the world's first platform to gather data from veterinary hospitals and veterinary pathology labs on national scale.  A major component of this project is building an infrastructure to enable the NLP models we created to be applied to help researchers around the world.
 * Our [Veterinary Record Paper](https://bvajournals.onlinelibrary.wiley.com/doi/abs/10.1136/vr.105997) describes the usage of Cefovecin in veterinary practices accross Australia.  Cefovecin is a 3rd generation cephlasporin and [crtically important antibiotic](https://www.amr.gov.au/resources/importance-ratings-and-summary-antibacterial-uses-human-and-animal-health-australia) in terms of antibiotic resistance. We used our previous algorithms to generate the labels for this study and used this study to generate training data for our [BioNLP paper](https://www.aclweb.org/anthology/2020.bionlp-1.17/).
 * [Antimicrobial Prescribing Guidelines](https://vetantibiotics.fvas.unimelb.edu.au/about/resources/) made available online for veterinarians in Companion Animal Practice.
@@ -19,7 +20,8 @@ News
 
 Selected Papers
 ======
-
+* Wang, Yuxia, Brian Hur, Karin Verspoor and Timothy Baldwin (to appear) A Multi-pass Sieve for Clinical Concept
+Normalization [https://www.atala.org/content/multi-pass-sieve-clinical-concept-normalization](https://www.atala.org/sites/default/files/TAL-61-2-2_Wang.pdf), Traitement Automatique des Langues 2020 Volume 61 Numéro 2.
 * Hur, Brian, Timothy Baldwin, Karin Verspoor, Laura Hardefeldt and James Gilkerson (2020) [Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes](https://www.aclweb.org/anthology/2020.bionlp-1.17/), In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing (BioNLP 2020), pp. 156—166.
 * Hardefeldt, Laura Y, Brian Hur, Karin Verspoor, Timothy Baldwin, Kirsten E Bailey, Riata Scarborough, Suzanna Richards, Helen Bilman-Jacobe, Glenn F Browning and James R Gilkerson (2020) [Use of cefovecin in dogs and cats attending first-opinion veterinary practices in Australia](https://veterinaryrecord.bmj.com/content/early/2020/08/20/vr.105997#), Veterinary Record.
 * Hur, Brian A., Laura Y. Hardefeldt, Karin M. Verspoor, Timothy Baldwin, and James R Gilkerson (2020) Describing the Antimicrobial Usage Patterns of Companion Animal Veterinary Practices; [Free Text Analysis of more than 4.4 Million Consultation Records](https://doi.org/10.1371/journal.pone.0230049), PLoS ONE 15(3): e0230049.

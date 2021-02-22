@@ -12,4 +12,3 @@ In this paper we use instance selection and developed [VetBERT](https://github.c
 
 [Download paper here](https://www.aclweb.org/anthology/2020.bionlp-1.17/)
 
-Hur, Brian, Timothy Baldwin, Karin Verspoor, Laura Hardefeldt and James Gilkerson (2020) [Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes](https://www.aclweb.org/anthology/2020.bionlp-1.17/), In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing (BioNLP 2020), pp. 156—166.
